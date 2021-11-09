@@ -1,0 +1,16 @@
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\24.09.11.2021-Generic, Collections\Codes\GenericCollections\GenericCollections\bin\Debug\net5.0\GenericCollections.exe
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\24.09.11.2021-Generic, Collections\Codes\GenericCollections\GenericCollections\bin\Debug\net5.0\GenericCollections.deps.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\24.09.11.2021-Generic, Collections\Codes\GenericCollections\GenericCollections\bin\Debug\net5.0\GenericCollections.runtimeconfig.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\24.09.11.2021-Generic, Collections\Codes\GenericCollections\GenericCollections\bin\Debug\net5.0\GenericCollections.runtimeconfig.dev.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\24.09.11.2021-Generic, Collections\Codes\GenericCollections\GenericCollections\bin\Debug\net5.0\GenericCollections.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\24.09.11.2021-Generic, Collections\Codes\GenericCollections\GenericCollections\bin\Debug\net5.0\ref\GenericCollections.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\24.09.11.2021-Generic, Collections\Codes\GenericCollections\GenericCollections\bin\Debug\net5.0\GenericCollections.pdb
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\24.09.11.2021-Generic, Collections\Codes\GenericCollections\GenericCollections\obj\Debug\net5.0\GenericCollections.csproj.AssemblyReference.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\24.09.11.2021-Generic, Collections\Codes\GenericCollections\GenericCollections\obj\Debug\net5.0\GenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\24.09.11.2021-Generic, Collections\Codes\GenericCollections\GenericCollections\obj\Debug\net5.0\GenericCollections.AssemblyInfoInputs.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\24.09.11.2021-Generic, Collections\Codes\GenericCollections\GenericCollections\obj\Debug\net5.0\GenericCollections.AssemblyInfo.cs
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\24.09.11.2021-Generic, Collections\Codes\GenericCollections\GenericCollections\obj\Debug\net5.0\GenericCollections.csproj.CoreCompileInputs.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\24.09.11.2021-Generic, Collections\Codes\GenericCollections\GenericCollections\obj\Debug\net5.0\GenericCollections.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\24.09.11.2021-Generic, Collections\Codes\GenericCollections\GenericCollections\obj\Debug\net5.0\ref\GenericCollections.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\24.09.11.2021-Generic, Collections\Codes\GenericCollections\GenericCollections\obj\Debug\net5.0\GenericCollections.pdb
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\24.09.11.2021-Generic, Collections\Codes\GenericCollections\GenericCollections\obj\Debug\net5.0\GenericCollections.genruntimeconfig.cache
